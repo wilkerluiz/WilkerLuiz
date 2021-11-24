@@ -2,7 +2,7 @@
 
  Sobre mim:
 
-- 💻 atualmente sou estagiário em infraesrutura e Banco de Dados
+- 💻 Atualmente, sou estagiário em infraesrutura e Banco de  dados
 - 💡 Estudando Java, Selenium e SQL 
 - 🚀 Sou apaixonado por desafios
 - 🎓 Estudante do 3º período em análise e desenvolvimento de sistemas
