@@ -2,7 +2,7 @@
 
  Sobre mim:
 
-- 💻 Atualmente, sou estagiário em infraesrutura e Banco de  dados
-- 💡 Estudando Java, Selenium e SQL 
+- 💻 Analista de Testes e Qualidade
+- 💡 Aprimorando conhecimentos em Javascript, Cypress e SQL 
 - 🚀 Sou apaixonado por desafios
-- 🎓 Estudante do 3º período em análise e desenvolvimento de sistemas
+- 🎓 Graduado em análise e desenvolvimento de sistemas
